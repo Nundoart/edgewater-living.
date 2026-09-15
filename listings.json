@@ -1,6 +1,28 @@
 {
-  "checkedAt": null,
-  "listings": [],
+  "checkedAt": "2026-09-15T23:25:58.401471+00:00",
+  "listings": [
+    {
+      "mls": "4389489",
+      "address": "40254 Crooked Stick Dr #1196",
+      "city": "Lancaster",
+      "state": "SC",
+      "community": "Edgewater - The Cottages",
+      "builder": "True Homes",
+      "listingAgent": "Kaylee Wilson",
+      "brokerage": "TLS Realty LLC",
+      "listingEmail": "kwilson@tlsrealtyllc.com",
+      "status": "Active",
+      "isNewConstruction": true,
+      "yearBuilt": 2026,
+      "price": 296900,
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1140,
+      "image": "https://photos.zillowstatic.com/fp/5e7081ddbbec937f42f1bbed5c1c4e61-d_d.jpg",
+      "sourceUrl": "https://www.zillow.com/homedetails/40254-Crooked-Stick-Dr-1196-Lancaster-SC-29720/462906595_zpid/",
+      "checkedAt": "2026-09-15T23:25:58.401471+00:00"
+    }
+  ],
   "excluded": [
     {
       "mls": "4413371",
@@ -13,3 +35,4 @@
   ],
   "sourcePolicy": "Zillow only"
 }
+
