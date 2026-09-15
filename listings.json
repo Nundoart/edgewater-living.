@@ -1,0 +1,47 @@
+{
+  "checkedAt": "2026-09-15T23:11:12.515405+00:00",
+  "listings": [
+    {
+      "mls": "4413371",
+      "address": "36170 Greg Norman Dr # 1009",
+      "city": "Lancaster",
+      "state": "SC",
+      "community": "Edgewater",
+      "brokerage": "TLS Realty LLC",
+      "listingAgent": "Kaylee Wilson",
+      "listingEmail": "kwilson@tlsrealtyllc.com",
+      "status": "Active",
+      "price": 379900,
+      "beds": 3,
+      "baths": 2.5,
+      "sqft": 2054,
+      "image": "https://images.highgarden-media.com/charlotte_images2/photos/4/4/1/3/3/36170-Greg-Norman-Dr-1009-Lancaster-SC-29720-Exterior-Elevation-9HPM.jpg",
+      "sourceUrl": "https://www.highgarden-charlotte.com/36170-Greg-Norman-Dr-1009-Lancaster-SC-29720/mls4413371",
+      "checkedAt": "2026-09-15T23:11:12.515385+00:00"
+    },
+    {
+      "mls": "4413372",
+      "address": "40258 Crooked Stick Dr # 1195",
+      "city": "Lancaster",
+      "state": "SC",
+      "community": "Edgewater",
+      "brokerage": "TLS Realty LLC",
+      "listingAgent": "Kaylee Wilson",
+      "listingEmail": "kwilson@tlsrealtyllc.com",
+      "status": "Active",
+      "price": 364900,
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1949,
+      "image": "https://images.highgarden-media.com/charlotte_images2/photos/4/4/1/3/3/40258-Crooked-Stick-Dr-1195-Lancaster-SC-29720-Exterior-Elevation-TBJP.jpg",
+      "sourceUrl": "https://www.highgarden-charlotte.com/40258-Crooked-Stick-Dr-1195-Lancaster-SC-29720/mls4413372",
+      "checkedAt": "2026-09-15T23:11:12.515402+00:00"
+    }
+  ],
+  "excluded": [
+    {
+      "mls": "4389489",
+      "reason": "True Homes reports sold; conflicting syndicated active status."
+    }
+  ]
+}
