@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-15T23:39:14.258000+00:00",
+  "checkedAt": "2026-09-16T12:08:48.239289+00:00",
   "listings": [
     {
       "mls": "4389489",
@@ -20,9 +20,10 @@
       "sqft": 1140,
       "image": "https://photos.zillowstatic.com/fp/5e7081ddbbec937f42f1bbed5c1c4e61-d_d.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/40254-Crooked-Stick-Dr-1196-Lancaster-SC-29720/462906595_zpid/",
-      "checkedAt": "2026-09-15T23:39:14.258000+00:00",
+      "checkedAt": "2026-09-16T12:08:03.059320+00:00",
       "reportMatched": true,
-      "reportDate": "2026-09-15"
+      "reportDate": "2026-09-15",
+      "zillowCheckedAt": "2026-09-16T12:08:03.059320+00:00"
     },
     {
       "address": "40258 Crooked Stick Dr #1195",
@@ -33,17 +34,20 @@
       "builder": "True Homes",
       "status": "Active",
       "isNewConstruction": true,
-      "yearBuilt": null,
+      "yearBuilt": 2026,
       "price": 364900,
       "beds": 3,
       "baths": 2,
       "sqft": 1949,
-      "image": "https://photos.zillowstatic.com/fp/48be6ebc278177068bad2551d1205840-cc_ft_960.jpg",
+      "image": "https://photos.zillowstatic.com/fp/e5457e72155b67c5002f8bed61ca20e7-d_d.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/40258-Crooked-Stick-Dr-1195-Lancaster-SC-29720/455237435_zpid/",
-      "checkedAt": "2026-09-15T23:39:14.258000+00:00",
+      "checkedAt": "2026-09-16T12:08:42.907294+00:00",
       "reportMatched": true,
       "reportDate": "2026-09-15",
-      "sourceAttribution": "True Homes via Zillow"
+      "brokerage": "TLS Realty LLC",
+      "listingAgent": "Kaylee Wilson",
+      "listingEmail": "kwilson@tlsrealtyllc.com",
+      "zillowCheckedAt": "2026-09-16T12:08:42.907294+00:00"
     },
     {
       "address": "36170 Greg Norman Dr #1009",
@@ -54,19 +58,24 @@
       "builder": "True Homes",
       "status": "Active",
       "isNewConstruction": true,
-      "yearBuilt": null,
+      "yearBuilt": 2026,
       "price": 379900,
       "beds": 3,
       "baths": 2.5,
       "sqft": 2054,
-      "image": "https://photos.zillowstatic.com/fp/15572429358a174e7c52e97e0161ce50-cc_ft_960.jpg",
+      "image": "https://photos.zillowstatic.com/fp/15572429358a174e7c52e97e0161ce50-d_d.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/36170-Greg-Norman-Dr-1009-Lancaster-SC-29720/464452662_zpid/",
-      "checkedAt": "2026-09-15T23:39:14.258000+00:00",
+      "checkedAt": "2026-09-16T12:08:48.239289+00:00",
       "reportMatched": true,
       "reportDate": "2026-09-15",
-      "sourceAttribution": "True Homes via Zillow"
+      "brokerage": "TLS Realty LLC",
+      "listingAgent": "Kaylee Wilson",
+      "listingEmail": "kwilson@tlsrealtyllc.com",
+      "zillowCheckedAt": "2026-09-16T12:08:48.239289+00:00"
     }
   ],
   "excluded": [],
-  "sourcePolicy": "True Homes inventory addresses cross-referenced with active Zillow new-construction listings; report match approved by owner"
+  "sourcePolicy": "True Homes inventory addresses cross-referenced with active Zillow new-construction listings; report match approved by owner",
+  "reportDate": "2026-09-15",
+  "inventoryReferenceStatus": "September 15, 2026 supplied address reference retained; no newer valid Gmail report found. Availability and prices verified on Zillow."
 }
