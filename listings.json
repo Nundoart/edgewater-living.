@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-01T12:50:29.858Z",
+  "checkedAt": "2026-10-02T12:47:06.279Z",
   "listings": [
     {
       "mls": "4389489",
@@ -20,10 +20,10 @@
       "sqft": 1140,
       "image": "https://photos.zillowstatic.com/fp/5e7081ddbbec937f42f1bbed5c1c4e61-d_d.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/40254-Crooked-Stick-Dr-1196-Lancaster-SC-29720/462906595_zpid/",
-      "checkedAt": "2026-10-01T12:50:28.811Z",
+      "checkedAt": "2026-10-02T12:41:02.579Z",
       "reportMatched": true,
       "reportDate": "2026-09-15",
-      "zillowCheckedAt": "2026-10-01T12:50:28.811Z"
+      "zillowCheckedAt": "2026-10-02T12:41:02.579Z"
     },
     {
       "address": "40258 Crooked Stick Dr #1195",
@@ -41,13 +41,13 @@
       "sqft": 1949,
       "image": "https://photos.zillowstatic.com/fp/e5457e72155b67c5002f8bed61ca20e7-d_d.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/40258-Crooked-Stick-Dr-1195-Lancaster-SC-29720/455237435_zpid/",
-      "checkedAt": "2026-10-01T12:50:29.298Z",
+      "checkedAt": "2026-10-02T12:41:03.198Z",
       "reportMatched": true,
       "reportDate": "2026-09-15",
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-01T12:50:29.298Z"
+      "zillowCheckedAt": "2026-10-02T12:41:03.198Z"
     },
     {
       "address": "36170 Greg Norman Dr #1009",
@@ -65,17 +65,41 @@
       "sqft": 2054,
       "image": "https://photos.zillowstatic.com/fp/15572429358a174e7c52e97e0161ce50-d_d.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/36170-Greg-Norman-Dr-1009-Lancaster-SC-29720/464452662_zpid/",
-      "checkedAt": "2026-10-01T12:50:29.858Z",
+      "checkedAt": "2026-10-02T12:41:03.835Z",
       "reportMatched": true,
       "reportDate": "2026-09-15",
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-01T12:50:29.858Z"
+      "zillowCheckedAt": "2026-10-02T12:41:03.835Z"
+    },
+    {
+      "address": "4754 Monterrico Dr #34",
+      "mls": "4430379",
+      "city": "Lancaster",
+      "state": "SC",
+      "community": "Edgewater - The Pinery (West)",
+      "builder": "True Homes",
+      "status": "Active",
+      "isNewConstruction": true,
+      "yearBuilt": 2026,
+      "price": 429900,
+      "beds": 3,
+      "baths": 2.5,
+      "sqft": 2544,
+      "image": "https://photos.zillowstatic.com/fp/0880ad0395beab1798f1222ae8bc04ab-d_d.jpg",
+      "sourceUrl": "https://www.zillow.com/homedetails/4754-Monterrico-Dr-34-Lancaster-SC-29720/465718697_zpid/",
+      "checkedAt": "2026-10-02T12:47:06.279Z",
+      "reportMatched": true,
+      "reportDate": "2026-09-15",
+      "brokerage": "TLS Realty LLC",
+      "listingAgent": "Kaylee Wilson",
+      "listingEmail": "kwilson@tlsrealtyllc.com",
+      "zillowCheckedAt": "2026-10-02T12:47:06.279Z"
     }
   ],
   "excluded": [],
   "sourcePolicy": "True Homes inventory addresses cross-referenced with active Zillow new-construction listings; report match approved by owner",
   "reportDate": "2026-09-15",
-  "inventoryReferenceStatus": "September 15, 2026 supplied address reference retained; no newer valid Gmail report found. Reference is 16 days old and should not be treated as current availability. Availability and prices verified on Zillow October 1, 2026."
+  "inventoryReferenceStatus": "September 15, 2026 supplied address reference retained; no newer valid Gmail report found. Reference is 17 days old and should not be treated as current availability. Availability and prices verified on Zillow October 2, 2026."
 }
