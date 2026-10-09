@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-08T12:11:11.298Z",
+  "checkedAt": "2026-10-09T12:46:29.162Z",
   "listings": [
     {
       "mls": "4389489",
@@ -20,10 +20,10 @@
       "sqft": 1140,
       "image": "https://photos.zillowstatic.com/fp/5e7081ddbbec937f42f1bbed5c1c4e61-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/40254-Crooked-Stick-Dr-1196-Lancaster-SC-29720/462906595_zpid/",
-      "checkedAt": "2026-10-08T12:09:40.711Z",
+      "checkedAt": "2026-10-09T12:46:03.706Z",
       "reportMatched": true,
       "reportDate": "2026-09-15",
-      "zillowCheckedAt": "2026-10-08T12:09:40.711Z"
+      "zillowCheckedAt": "2026-10-09T12:46:03.706Z"
     },
     {
       "address": "40258 Crooked Stick Dr #1195",
@@ -41,13 +41,13 @@
       "sqft": 1949,
       "image": "https://photos.zillowstatic.com/fp/e5457e72155b67c5002f8bed61ca20e7-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/40258-Crooked-Stick-Dr-1195-Lancaster-SC-29720/455237435_zpid/",
-      "checkedAt": "2026-10-08T12:09:40.654Z",
+      "checkedAt": "2026-10-09T12:46:03.691Z",
       "reportMatched": true,
       "reportDate": "2026-09-15",
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:09:40.654Z"
+      "zillowCheckedAt": "2026-10-09T12:46:03.691Z"
     },
     {
       "address": "36170 Greg Norman Dr #1009",
@@ -65,13 +65,13 @@
       "sqft": 2054,
       "image": "https://photos.zillowstatic.com/fp/15572429358a174e7c52e97e0161ce50-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/36170-Greg-Norman-Dr-1009-Lancaster-SC-29720/464452662_zpid/",
-      "checkedAt": "2026-10-08T12:09:40.644Z",
+      "checkedAt": "2026-10-09T12:46:03.687Z",
       "reportMatched": true,
       "reportDate": "2026-09-15",
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:09:40.644Z"
+      "zillowCheckedAt": "2026-10-09T12:46:03.687Z"
     },
     {
       "address": "4754 Monterrico Dr #34",
@@ -89,13 +89,13 @@
       "sqft": 2544,
       "image": "https://photos.zillowstatic.com/fp/0880ad0395beab1798f1222ae8bc04ab-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/4754-Monterrico-Dr-34-Lancaster-SC-29720/465718697_zpid/",
-      "checkedAt": "2026-10-08T12:09:40.710Z",
+      "checkedAt": "2026-10-09T12:46:03.699Z",
       "reportMatched": true,
       "reportDate": "2026-09-15",
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:09:40.710Z"
+      "zillowCheckedAt": "2026-10-09T12:46:03.699Z"
     },
     {
       "address": "20241 Serendipity Dr #70",
@@ -113,13 +113,13 @@
       "sqft": 1934,
       "image": "https://photos.zillowstatic.com/fp/68365597d6f1d9bcb078789d3cbae39e-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/20241-Serendipity-Dr-70-Lancaster-SC-29720/465783934_zpid/",
-      "checkedAt": "2026-10-08T12:09:40.776Z",
+      "checkedAt": "2026-10-09T12:46:03.690Z",
       "reportMatched": true,
       "reportDate": "2026-09-15",
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:09:40.776Z"
+      "zillowCheckedAt": "2026-10-09T12:46:03.690Z"
     },
     {
       "address": "10417 Lakeshore Dr #72",
@@ -133,17 +133,17 @@
       "yearBuilt": 2026,
       "price": 599900,
       "beds": 5,
-      "baths": 4,
+      "baths": 3.5,
       "sqft": 3626,
       "image": "https://photos.zillowstatic.com/fp/6ae0979b1af7b55d2b19ad94ace4d2a7-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/10417-Lakeshore-Dr-72-Lancaster-SC-29720/465802952_zpid/",
-      "checkedAt": "2026-10-08T12:09:40.765Z",
+      "checkedAt": "2026-10-09T12:46:03.689Z",
       "reportMatched": true,
       "reportDate": "2026-09-15",
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:09:40.765Z"
+      "zillowCheckedAt": "2026-10-09T12:46:03.689Z"
     },
     {
       "address": "15007 Ken Venturi Cir #790",
@@ -157,16 +157,16 @@
       "yearBuilt": 2026,
       "price": 699900,
       "beds": 4,
-      "baths": 4,
+      "baths": 3.5,
       "sqft": 3649,
       "image": "https://photos.zillowstatic.com/fp/4dc4920eeba8d0470109526c3599bc86-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/15007-Ken-Venturi-Cir-790-Lancaster-SC-29720/465802894_zpid/",
-      "checkedAt": "2026-10-08T12:09:47.355Z",
+      "checkedAt": "2026-10-09T12:46:11.815Z",
       "reportMatched": false,
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:09:47.355Z"
+      "zillowCheckedAt": "2026-10-09T12:46:11.815Z"
     },
     {
       "address": "4643 Monterrico Dr #90",
@@ -184,10 +184,10 @@
       "sqft": 2300,
       "image": "https://photos.zillowstatic.com/fp/113a69bbb07b9f8430875724482b95bf-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/4643-Monterrico-Dr-90-Lancaster-SC-29720/465799797_zpid/",
-      "checkedAt": "2026-10-08T12:09:47.697Z",
+      "checkedAt": "2026-10-09T12:46:11.831Z",
       "reportMatched": true,
       "reportDate": "2026-09-15",
-      "zillowCheckedAt": "2026-10-08T12:09:47.697Z",
+      "zillowCheckedAt": "2026-10-09T12:46:11.831Z",
       "listingAgent": "Kaylee Wilson",
       "brokerage": "TLS Realty LLC",
       "listingEmail": "kwilson@tlsrealtyllc.com"
@@ -208,13 +208,13 @@
       "sqft": 2318,
       "image": "https://photos.zillowstatic.com/fp/41c5b88a4483cf27d71bce16f66a5c69-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/4675-Monterrico-Dr-83-Lancaster-SC-29720/465785156_zpid/",
-      "checkedAt": "2026-10-08T12:09:47.634Z",
+      "checkedAt": "2026-10-09T12:46:12.065Z",
       "reportMatched": true,
       "reportDate": "2026-09-15",
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:09:47.634Z"
+      "zillowCheckedAt": "2026-10-09T12:46:12.065Z"
     },
     {
       "address": "4746 Monterrico Dr #32",
@@ -232,13 +232,13 @@
       "sqft": 2983,
       "image": "https://photos.zillowstatic.com/fp/7dfd6d5b52aa889b1600b112d2789fdd-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/4746-Monterrico-Dr-32-Lancaster-SC-29720/465784871_zpid/",
-      "checkedAt": "2026-10-08T12:09:47.404Z",
+      "checkedAt": "2026-10-09T12:46:12.085Z",
       "reportMatched": true,
       "reportDate": "2026-09-15",
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:09:47.404Z"
+      "zillowCheckedAt": "2026-10-09T12:46:12.085Z"
     },
     {
       "address": "4761 Monterrico Dr #65P",
@@ -256,12 +256,12 @@
       "sqft": 1780,
       "image": "https://photos.zillowstatic.com/fp/120c26b835ae980ac578243d1820b746-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/4761-Monterrico-Dr-65P-Lancaster-SC-29720/465805400_zpid/",
-      "checkedAt": "2026-10-08T12:09:47.698Z",
+      "checkedAt": "2026-10-09T12:46:12.148Z",
       "reportMatched": false,
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:09:47.698Z"
+      "zillowCheckedAt": "2026-10-09T12:46:12.148Z"
     },
     {
       "address": "4765 Monterrico Dr #64P",
@@ -279,12 +279,12 @@
       "sqft": 2003,
       "image": "https://photos.zillowstatic.com/fp/baa339f3d5eb34d65118427d2c419346-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/4765-Monterrico-Dr-64P-Lancaster-SC-29720/465804729_zpid/",
-      "checkedAt": "2026-10-08T12:09:51.880Z",
+      "checkedAt": "2026-10-09T12:46:12.340Z",
       "reportMatched": false,
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:09:51.880Z"
+      "zillowCheckedAt": "2026-10-09T12:46:12.340Z"
     },
     {
       "address": "4769 Monterrico Dr #63P",
@@ -302,12 +302,12 @@
       "sqft": 1557,
       "image": "https://photos.zillowstatic.com/fp/9b513a7f22ec7068983e2115578f4a4c-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/4769-Monterrico-Dr-63P-Lancaster-SC-29720/465804285_zpid/",
-      "checkedAt": "2026-10-08T12:09:51.978Z",
+      "checkedAt": "2026-10-09T12:46:20.226Z",
       "reportMatched": false,
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:09:51.978Z"
+      "zillowCheckedAt": "2026-10-09T12:46:20.226Z"
     },
     {
       "address": "4773 Monterrico Dr #62P",
@@ -325,12 +325,12 @@
       "sqft": 2742,
       "image": "https://photos.zillowstatic.com/fp/78d1924d4a986355121dc50ec13b42b4-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/4773-Monterrico-Dr-62P-Lancaster-SC-29720/465803848_zpid/",
-      "checkedAt": "2026-10-08T12:09:52.022Z",
+      "checkedAt": "2026-10-09T12:46:20.267Z",
       "reportMatched": false,
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:09:52.022Z"
+      "zillowCheckedAt": "2026-10-09T12:46:20.267Z"
     },
     {
       "address": "4777 Monterrico Dr #61P",
@@ -348,12 +348,12 @@
       "sqft": 2720,
       "image": "https://photos.zillowstatic.com/fp/15b181c8a9cfcfe9ce724f1ffeb97dfb-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/4777-Monterrico-Dr-61P-Lancaster-SC-29720/465803291_zpid/",
-      "checkedAt": "2026-10-08T12:09:51.892Z",
+      "checkedAt": "2026-10-09T12:46:20.377Z",
       "reportMatched": false,
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:09:51.892Z"
+      "zillowCheckedAt": "2026-10-09T12:46:20.377Z"
     },
     {
       "address": "9925 Jack Nicklaus Dr #910",
@@ -371,12 +371,12 @@
       "sqft": 3082,
       "image": "https://photos.zillowstatic.com/fp/3af37be352bc5667324ed2d65f7f3f29-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/9925-Jack-Nicklaus-Dr-910-Lancaster-SC-29720/465802803_zpid/",
-      "checkedAt": "2026-10-08T12:09:51.918Z",
+      "checkedAt": "2026-10-09T12:46:20.423Z",
       "reportMatched": false,
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:09:51.918Z"
+      "zillowCheckedAt": "2026-10-09T12:46:20.423Z"
     },
     {
       "address": "4715 Monterrico Dr #74P",
@@ -394,12 +394,12 @@
       "sqft": 1587,
       "image": "https://photos.zillowstatic.com/fp/c5719f460f66df25cde09da7a188cdb7-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/4715-Monterrico-Dr-74P-Lancaster-SC-29720/465826517_zpid/",
-      "checkedAt": "2026-10-08T12:09:52.074Z",
+      "checkedAt": "2026-10-09T12:46:20.587Z",
       "reportMatched": false,
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:09:52.074Z"
+      "zillowCheckedAt": "2026-10-09T12:46:20.587Z"
     },
     {
       "address": "4723 Monterrico Dr #72P",
@@ -417,12 +417,12 @@
       "sqft": 1686,
       "image": "https://photos.zillowstatic.com/fp/57c92edd3d56e1ada178d5b1b3a74d3b-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/4723-Monterrico-Dr-72P-Lancaster-SC-29720/465826497_zpid/",
-      "checkedAt": "2026-10-08T12:09:56.819Z",
+      "checkedAt": "2026-10-09T12:46:20.701Z",
       "reportMatched": false,
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:09:56.819Z"
+      "zillowCheckedAt": "2026-10-09T12:46:20.701Z"
     },
     {
       "address": "4743 Monterrico Dr #69P",
@@ -440,12 +440,12 @@
       "sqft": 1847,
       "image": "https://photos.zillowstatic.com/fp/4554fd1a60ee91e237e628d9356c4ed4-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/4743-Monterrico-Dr-69P-Lancaster-SC-29720/465826488_zpid/",
-      "checkedAt": "2026-10-08T12:09:56.847Z",
+      "checkedAt": "2026-10-09T12:46:28.579Z",
       "reportMatched": false,
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:09:56.847Z"
+      "zillowCheckedAt": "2026-10-09T12:46:28.579Z"
     },
     {
       "address": "4751 Monterrico Dr #67P",
@@ -463,12 +463,12 @@
       "sqft": 2339,
       "image": "https://photos.zillowstatic.com/fp/c2de552cafd095c41a40db40cebcb908-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/4751-Monterrico-Dr-67P-Lancaster-SC-29720/465805558_zpid/",
-      "checkedAt": "2026-10-08T12:09:56.717Z",
+      "checkedAt": "2026-10-09T12:46:28.583Z",
       "reportMatched": false,
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:09:56.717Z"
+      "zillowCheckedAt": "2026-10-09T12:46:28.583Z"
     },
     {
       "address": "4701 Monterrico Dr #77P",
@@ -482,16 +482,16 @@
       "yearBuilt": 2026,
       "price": 451900,
       "beds": 4,
-      "baths": 2.5,
+      "baths": 3.5,
       "sqft": 3434,
       "image": "https://photos.zillowstatic.com/fp/5cff4b44a666e6d0aa0bec6b2f7a7440-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/4701-Monterrico-Dr-77P-Lancaster-SC-29720/465833748_zpid/",
-      "checkedAt": "2026-10-08T12:11:00.765Z",
+      "checkedAt": "2026-10-09T12:46:28.719Z",
       "reportMatched": false,
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:11:00.765Z"
+      "zillowCheckedAt": "2026-10-09T12:46:28.719Z"
     },
     {
       "address": "4689 Monterrico Dr #80P",
@@ -509,12 +509,12 @@
       "sqft": 1680,
       "image": "https://photos.zillowstatic.com/fp/25adeb4e9e9cc7a2a253ab104a309036-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/4689-Monterrico-Dr-80P-Lancaster-SC-29720/465835266_zpid/",
-      "checkedAt": "2026-10-08T12:11:00.874Z",
+      "checkedAt": "2026-10-09T12:46:28.819Z",
       "reportMatched": false,
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:11:00.874Z"
+      "zillowCheckedAt": "2026-10-09T12:46:28.819Z"
     },
     {
       "address": "4709 Monterrico Dr #75P",
@@ -532,12 +532,12 @@
       "sqft": 1980,
       "image": "https://photos.zillowstatic.com/fp/903884f1d86214f894e1c23c817604cb-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/4709-Monterrico-Dr-75P-Lancaster-SC-29720/465832663_zpid/",
-      "checkedAt": "2026-10-08T12:11:06.040Z",
+      "checkedAt": "2026-10-09T12:46:28.905Z",
       "reportMatched": false,
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:11:06.040Z"
+      "zillowCheckedAt": "2026-10-09T12:46:28.905Z"
     },
     {
       "address": "4803 Monterrico Dr #56P",
@@ -551,20 +551,20 @@
       "yearBuilt": 2026,
       "price": 445900,
       "beds": 4,
-      "baths": 2.5,
+      "baths": 3.5,
       "sqft": 3614,
       "image": "https://photos.zillowstatic.com/fp/30c245775ebc7758372998b119ab1d52-cc_ft_1536.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/4803-Monterrico-Dr-56P-Lancaster-SC-29720/465840405_zpid/",
-      "checkedAt": "2026-10-08T12:11:11.298Z",
+      "checkedAt": "2026-10-09T12:46:29.162Z",
       "reportMatched": false,
       "brokerage": "TLS Realty LLC",
       "listingAgent": "Kaylee Wilson",
       "listingEmail": "kwilson@tlsrealtyllc.com",
-      "zillowCheckedAt": "2026-10-08T12:11:11.298Z"
+      "zillowCheckedAt": "2026-10-09T12:46:29.162Z"
     }
   ],
   "excluded": [],
   "sourcePolicy": "True Homes inventory addresses cross-referenced with active Zillow new-construction listings; report match approved by owner",
   "reportDate": "2026-09-15",
-  "inventoryReferenceStatus": "September 15, 2026 supplied address reference retained; no newer valid Gmail report found. Reference is 23 days old and should not be treated as current availability. Availability and prices verified on Zillow October 8, 2026. 4746 Monterrico Dr #90 was removed after Zillow no longer showed it as an active for-sale listing."
+  "inventoryReferenceStatus": "September 15, 2026 supplied address reference retained; no newer valid Gmail report found. Reference is 24 days old and should not be treated as current availability. Availability, prices, and detailed property fields verified on Zillow October 9, 2026."
 }
