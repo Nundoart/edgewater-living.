@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-14T12:47:53.963Z",
+  "checkedAt": "2026-10-15T12:51:53.320Z",
   "listings": [
     {
       "mls": "4389489",
@@ -566,5 +566,5 @@
   "excluded": [],
   "sourcePolicy": "True Homes inventory addresses cross-referenced with active Zillow new-construction listings; report match approved by owner",
   "reportDate": "2026-09-15",
-  "inventoryReferenceStatus": "September 15, 2026 supplied address reference retained; no newer valid Gmail report found. Reference is 29 days old and should not be treated as current availability. Availability, prices, and detailed property fields verified on Zillow October 14, 2026."
+  "inventoryReferenceStatus": "September 15, 2026 supplied address reference retained; no newer valid Gmail report found. Reference is 30 days old and should not be treated as current availability. Availability and public listing prices verified on Zillow October 15, 2026; previously verified detailed fields retained under the 48-hour freshness protection."
 }
